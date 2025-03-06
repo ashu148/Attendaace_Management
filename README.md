@@ -24,7 +24,7 @@ And if you like this project then ADD a STAR ⭐️ to this project 👆
 2. Take/Update Students Attendance
 3. Add/Update Result
 4. Apply for Leave
-5. Send Feedback to HOD
+5. Send Feedback to Admin
 
 ### C. Students Can
 
@@ -32,7 +32,7 @@ And if you like this project then ADD a STAR ⭐️ to this project 👆
 2. View Attendance
 3. View Result
 4. Apply for Leave
-5. Send Feedback to HOD
+5. Send Feedback to Admin
 
 ## Support Developer
 
@@ -138,7 +138,7 @@ $ python3 manage.py runserver
 
 **7. Login Credentials**
 
-Create Super User (HOD)
+Create Super User (Admin)
 
 ```
 $  python manage.py createsuperuser
